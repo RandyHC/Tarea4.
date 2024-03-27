@@ -1,0 +1,22 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+  }
+  .center{
+    text-align: center;
+  }
+.barrio-regular {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+  }
+  .thasadith-bold {
+    font-family: "Thasadith", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
